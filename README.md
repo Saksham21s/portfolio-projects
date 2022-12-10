@@ -1,2 +1,3 @@
 # portfolio-projects
-#an Html,css,javascript based project of simple image editor
+#contains several projects to be added to your portfolio projects section
+
